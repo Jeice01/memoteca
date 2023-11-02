@@ -1,2 +1,0 @@
-# memoteca
-Usando Angular
